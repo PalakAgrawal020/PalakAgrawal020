@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palak Agrawal</h1>
 <h3 align="center">Passionate about web development</h3>
 
-- 🔭 I’m currently working on [Blog API](https://github.com/PalakAgrawal020/BlogAPI/)
+- 🔭 I’m currently working on [Shopping_Cart](https://furrniro.netlify.app)
 
 - 🌱 I’m currently learning *DSA & Backend development*
 
